@@ -1,0 +1,22 @@
+The Wankel engine (/ˈvaŋkəl̩/, VUN-kell) is a type of internal combustion engine using an eccentric rotary design to convert pressure into rotating motion. The concept was proven by German engineer Felix Wankel, followed by a commercially feasible engine designed by German engineer Hanns-Dieter Paschke.[1] The Wankel engine's rotor, which creates the turning motion, is similar in shape to a Reuleaux triangle, with the sides having less curvature. The rotor spins inside a figure-eight-like epitrochoidal housing around a fixed-toothed gearing. The midpoint of the rotor moves in a circle around the output shaft, rotating the shaft via a cam.
+
+In its basic gasoline fuelled form, the Wankel engine has lower thermal efficiency and higher exhaust emissions when compared to the four-stroke reciprocating piston engine. The thermal inefficiency has restricted the engine to limited use since its introduction in the 1960s. However, many disadvantages have mainly been overcome over the succeeding decades as the production of road-going vehicles progressed. The advantages of compact design, smoothness, lower weight, and fewer parts over the reciprocating piston internal combustion engines make the Wankel engine suited for applications such as chainsaws, auxiliary power units, loitering munitions, aircraft, jet skis, snowmobiles, and range extenders in cars. The Wankel engine was also used to power motorcycles and racing cars.
+
+Concept
+Rotary engine types
+
+Figure 2.
+The first DKM Wankel engine designed by Felix Wankel, the DKM 54 (Drehkolbenmotor), at the Deutsches Museum in Bonn
+
+Figure 3.
+A Wankel engine with its rotor and geared output shaft
+
+Figure 5.
+The first KKM Wankel Engine based on a design by Hanns-Dieter Paschke, the NSU KKM 57P (Kreiskolbenmotor), at Autovision und Forum
+
+Figure 6.
+First production Wankel engine; installed in an NSU Spider
+The Wankel engine is a type of rotary piston engine and exists in two primary forms, the Drehkolbenmotor (DKM, "rotary piston engine"), designed by Felix Wankel (see Figure 2.) and the Kreiskolbenmotor (KKM, "circuitous piston engine"), designed by Hanns-Dieter Paschke[2] (see Figure 3.), of which only the latter has left the prototype stage. Thus, all production Wankel engines are of the KKM type.
+
+In a DKM engine, there are two rotors: the inner, trochoid-shaped rotor, and the outer rotor, which has an outer circular shape, and an inner figure eight shape. The center shaft is stationary, and torque is taken off the outer rotor, which is geared to the inner rotor.[3]
+In a KKM engine, the outer rotor is part of the stationary housing (thus not a moving part). The inner shaft is a moving part with an eccentric lobe for the inner rotor to spin around. The rotor spins around its center and around the axis of the eccentric shaft in a hula hoop fashion, resulting in the rotor making one complete revolution for every three revolutions of the eccentric shaft. In the KKM engine, torque is taken off the eccentric shaft,[4] making it a much simpler design to be adopted to conventional powertrains.[5]

@@ -1,0 +1,46 @@
+The Pagani Zonda R[1] is a track day car developed and manufactured by Italian sports car manufacturer Pagani. It debuted at the 2007 Geneva Motor Show, using the 6.0-litre GT 112 engine sourced from the racing version of the Mercedes-Benz CLK-GTR.[2] The Zonda R's competition lies with track-based cars, such as the Ferrari FXX and Maserati MC12 Corse rather than the original Zonda's road competitors as it is not road-legal.
+
+Despite sharing much of the Zonda's shape, the R is almost entirely new, sharing only 10% of the Zonda F's components. It has been obliquely suggested by Horacio Pagani that this car is a testbed chassis for certain components of the Zonda's replacement, the Huayra (in the same vein as the Ferrari 288 GTO Evoluzione and the successive F40) and that the Zonda R accurately reflects some of the Huayra's features. Only 15 Zonda Rs were produced along with an additional 5 Zonda Revolućion cars and the Zonda R prototype.
+
+Specifications
+Chassis
+The central carbon chassis incorporates a roll cage and a rubber racing fuel cell with 4 fuel pumps and quick refuel filler cap, similar to GT race cars. The wheelbase has been increased by 47 mm (1.9 in) to increase stability. The front and rear subframes are brand-new, built to accommodate new suspension geometry, and produced in Avional. The slick-shod wheels are new forged-magnesium center-lock models, which in conjunction with on-board pneumatic airjacks allow rapid change of the entire wheel assemblies.
+
+The car senses, displays and logs information about the amount of down-force that is generated at each wheel at all times. It is thought that this system will enable owners to adjust set-up according to track conditions and to improve their cornering technique.
+
+Bodywork
+In addition to the wheelbase increase (47 mm), overall length has increased by 394 mm (15.5 in) and track by 50 mm (2.0 in). The bodywork and aerodynamics have been altered to offer maximum down-force, featuring a longer front bonnet with flaps, a closed underbody and a new rear overhang with adjustable rear wing and race-derived diffuser. These are intended to translate into increased aerodynamic efficiency and down-force for maximum cornering speed. It is also noted that the car's new rear bodywork is minimal in the extreme, being composed mostly of vent. This is thought to be symptomatic of the need to keep the engine cool enough, even under hard track use.[3]
+
+Engine
+
+The 6.0-litre Mercedes-Benz GT 112 engine
+The engine, although shared with the Mercedes CLK-GTR, has been modified and has an increased power output of 750 PS (552 kW; 740 hp) at 7,500 rpm and 710 N⋅m (524 lb⋅ft) of torque. And a specific power output of 125 PS/litre. A lightweight carbon fibre high performance intake system, racing multiple disc centered clutch and Formula One-style exhaust system, hydroformed in Inconel 625 and ceramic coated for optimal heat dissipation, have been added. The AMG-built engine is mated to a 6-speed longitudinally-mounted manual sequential synchronized gearbox manufactured by Xtrac.[4]
+
+Interior
+
+Zonda R interior at the Pagani museum (note the rev counter at the center of the steering wheel)
+The car's interior is mainly composed of track-related features and minimum creature comforts, reflecting the car's racetrack aspirations. It also features seats specifically customized to the body dimensions of its respective owner to offer maximum support to the owner while in use. As before, the Digitek instrumentation provides essential information and the sophisticated telemetry allows a variety of sensors to monitor numerous aspects of the car.
+
+Performance
+
+Rear view
+The Pagani Zonda R has a claimed top speed of 375 km/h (233 mph), accelerates to 97 km/h (60 mph) in 2.7 seconds and 100 km/h (62 mph) in 2.8 seconds. It can brake from 97 to 0 km/h (60 to 0 mph) in 96.0 ft (29.3 m), and corners at 1.25 g.[2][4]
+
+Track records
+On 30 June 2010, Pagani claimed a new record for production-based cars using the Pagani Zonda R and completing the Nürburgring in 6:47, beating the Ferrari 599XX.[5][3]
+
+The Zonda R completed a lap of the Top Gear test track in 1:08.5, but it was disqualified from the Power Lap board on the basis of it not being road legal. This marks the 3rd fastest car to ever go around the track.
+
+Variants
+
+Zonda R Evolution Barchetta one-off
+Zonda R Evolution
+The Zonda R Evolution was an updated version of the Zonda R. Unveiled at the 2012 Goodwood Festival of Speed, it features many changes over the previous Zonda R. The car takes many pieces and inspirations from the Zonda 760RS. The exterior is finished in pearl white colour with exposed carbon-fibre on the nose. The 6.0 L V12 engine is uprated to 760 PS (559 kW; 750 hp). The bodywork is the same as the Zonda R but has improved aerodynamics. It features a bigger air splitter above the two standard air splitters on the front bumper and a pair of small splitters on the sides of the rear bumper. A bigger rear central fin and a small spoiler added below the standard Zonda R spoiler improves aerodynamics and increases down-force. 5 cars were initially planned to be produced, but only one (the original Zonda R prototype) was actually completed.[6][7] The only Zonda R Evolution chassis was eventually transformed into a Zonda Revolución and still resides at the Pagani headquarters.
+
+Zonda Revolución
+
+
+Zonda Revolución
+Pagani unveiled the final version of the Zonda R, called Zonda Revolución[8] to clients and family members during "Vanishing Point 2013", the International Pagani gathering.[9] The central monocoque is carbon-titanium, giving the Zonda Revolución a curb weight of 1,070 kg (2,359 lb). The 6.0 L (5,987 cc) Mercedes-Benz M120 engine (bore and stroke 89 mm x 80.2 mm) is an evolution of the Zonda R's powerplant, which now develops an output of 800 PS (588 kW; 789 hp) and 730 N⋅m (538 lbf⋅ft) of torque,[10] resulting in a power to weight ratio of 758 PS per tonne. The Xtrac 672 6-speed transversal and sequential gearbox changes gears in 20 milliseconds. The 12 stage traction control developed by Bosch and the renewed ABS system allows the car to further adapt to the driver's driving style. The aerodynamic components include new and updated canards on the front, as well as a vertical stabilizer supporting the main rear wing. Beside using the R Evolution's body, the Zonda Revolución also features a DRS (Drag Reduction System) on the rear wing. The system has two different operating modes, both can be activated by the driver at any time. The manual system is controlled with the DRS button on the steering wheel. The rear wing changes between maximum and minimum down-force settings, at the occurrence of a lateral acceleration of 0.8 g and a minimum speed of 100 km/h (62 mph). Holding down the DRS for more than two seconds engages the DRS to work automatically according to the algorithms developed by the Pagani engineers during the development phase. The main rear wing also utilises mounts on the side of the vehicle alongside a smaller wing at the end of the vertical stabiliser. The Brembo braking system adopts new CCMR discs derived from F1 technology. With a weight saving of 15% compared to the previous CCM discs, the CCMR offer higher stiffness and lower operating temperatures on extreme track use. This contributes to the life of the disc which is increased by four times, with no sign of fading and a significant overall increase in braking power. Each Revolución, of which only five were built (not including the prototype), was priced at €2.2 million before taxes.[11][12][13]
+
+In 2021, one Zonda Revolución began an extensive conversion process to become road-legal [14]
